@@ -1,5 +1,5 @@
 # video motion magnification
-Python source code to amplificate motion on a video, this code is written based on [pbMoMa: Phase Based video MOtion MAgnification] (https://github.com/jvgemert/pbMoMa) and [Steerable pyramid and STSIM metrics] (https://github.com/andreydung/Steerable-filter)
+Python source code to amplificate motion on a video, this code is written based on [pbMoMa: Phase Based video MOtion MAgnification](https://github.com/jvgemert/pbMoMa) and [Steerable pyramid and STSIM metrics](https://github.com/andreydung/Steerable-filter)
 ### Requirements:
   - python 3.6
   - numpy
